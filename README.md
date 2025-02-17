@@ -1,4 +1,4 @@
-# Personal-Finance-Tracker
+# Personal Finance Tracker
 A simple Python GUI application built using Tkinter that allows users to track their expenses by adding, viewing, and saving financial records.
 
 ## Features
